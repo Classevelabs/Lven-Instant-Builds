@@ -1,4 +1,4 @@
-# Lven Instant — Builds
+# Lven Instant Builds
 
 Public mirror for Lven Instant installer artifacts. Each tagged release
 holds the APK / installer for that version.
